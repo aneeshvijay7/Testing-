@@ -1,3 +1,0 @@
-Testing commandline
-abcd testing commandline
-bcdf testing command line
